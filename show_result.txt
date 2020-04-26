@@ -1,0 +1,52 @@
+ -------------------------------------------------------
+ | API-Names         | Category  | Followers | Versions|
+ -------------------------------------------------------
+ Beaconstac QR Code   QR Codes       1         REST v2.0    
+  https://www.programmableweb.com/category/tools//api/beaconstac-qr-code
+ Investabit  Cryptocurrency  5  REST v1.0
+  https://www.programmableweb.com/category/tools//api/investabit
+ USPS Merchandise Return Bulk Label   Shipping       1         REST v1.5    
+  https://www.programmableweb.com/category/tools//api/usps-merchandise-return-bulk-label
+ Serato  Music  3  Indirect v2.3.1
+  https://www.programmableweb.com/category/tools//api/serato
+ Inoreader    Content       3         REST v0.0    
+  https://www.programmableweb.com/category/tools//api/inoreader
+ Spott  Tools  6  REST v0.0
+  https://www.programmableweb.com/category/tools//api/spott
+ Datawrapper   Data       1         REST v3.0    
+  https://www.programmableweb.com/category/tools//api/datawrapper
+ EnableX Client Toolkit  Platform-as-a-Service  1  Indirect v1.0
+  https://www.programmableweb.com/category/tools//api/enablex-client-toolkit
+ Fun Generators Taunt    Entertainment       14         REST v1.0    
+  https://www.programmableweb.com/category/tools//api/fun-generators-taunt
+ WhoisXML Website Contacts  Domains  2  REST v1.0
+  https://www.programmableweb.com/category/tools//api/whoisxml-website-contacts
+ WhoisXML Categorization   Domains       1         REST v1.0    
+  https://www.programmableweb.com/category/tools//api/whoisxml-categorization
+ WhoisXML Screenshot  Screenshots  2  REST v1.0
+  https://www.programmableweb.com/category/tools//api/whoisxml-screenshot
+ Puppet Server Metrics    Software-as-a-Service       1         REST v2.0    
+  https://www.programmableweb.com/category/tools//api/puppet-server-metrics
+ Puppet Razor  Software-as-a-Service  1  REST v1.0
+  https://www.programmableweb.com/category/tools//api/puppet-razor
+ Puppet Activity Service   Software-as-a-Service       0         REST v1.0    
+  https://www.programmableweb.com/category/tools//api/puppet-activity-service
+ Puppet Code Manager Webhooks  Software-as-a-Service  0  REST v0.0
+  https://www.programmableweb.com/category/tools//api/puppet-code-manager-webhooks
+ Puppet Code Manager   Software-as-a-Service       0         REST v1.0    
+  https://www.programmableweb.com/category/tools//api/puppet-code-manager
+ Puppet Orchestrator  Software-as-a-Service  0  REST v1.0
+  https://www.programmableweb.com/category/tools//api/puppet-orchestrator
+ Puppet Status   Software-as-a-Service       0         REST v1.0    
+  https://www.programmableweb.com/category/tools//api/puppet-status
+ Amplitude Dashboard   Tools  0  REST v3
+  https://www.programmableweb.com/category/tools//api/amplitude-dashboard
+ Filovirid Screenshot   Screenshots       5         REST v0.1    
+  https://www.programmableweb.com/category/tools//api/filovirid-screenshot
+ IX-API  Standards  1  REST v1.0
+  https://www.programmableweb.com/category/tools//api/ix-api
+ PageCDN   Content Delivery Network       8         REST v2    
+  https://www.programmableweb.com/category/tools//api/pagecdn
+ Duda Mobile JavaScript   Tools  0  Indirect v0.0
+  https://www.programmableweb.com/category/tools//api/duda-mobile-javascript
+----------------------------
